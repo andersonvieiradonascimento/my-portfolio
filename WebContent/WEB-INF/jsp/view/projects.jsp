@@ -25,7 +25,7 @@
 <div id="content-wrap">
 </div>
 <footer id="footer">
-  <h5>Web page by Anderson Vieira do Nascimento &copy;</h5>
+  <h5 style="color: #fff">Web page by Anderson Vieira do Nascimento &copy;</h5>
 </footer>
 </body>
 </html>
