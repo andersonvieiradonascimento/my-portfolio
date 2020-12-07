@@ -28,7 +28,6 @@
         WELCOME
     </div>
     <p>Hey, welcome to my portfolio! Here you'll find the stuff that I'm working on...</p>
-    <p>Demonstrations of it, actually...</p>
     <a href="#">
         <button class="video-button">See my presentation video</button>
     </a>
